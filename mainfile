@@ -1,12 +1,3 @@
-希望本文能够成为不富裕者移民加拿大的瑞士军刀。
-本文包含:
-  大部分联邦和省的移民政策的详细信息(投资移民、亲属移民和Ontario省政策除外)，全部来自政府官网且有附上相应链接。
-  移民难度较低的6个省的部分学校及部分课程信息，全部来自学校官网且有附上相应链接。
-  学各种专业在当地的薪资情况，信息来自indeed。
-本文作于2023年2月前后，作者不为本文时效性作担保，使用前务必到官网作核查。
-可能不定期更新。
-以下为正文。GoogleDocs版本(排版相对友好): https://docs.google.com/document/d/e/2PACX-1vRAZxfaBuoG8IACsqC-makV40fZchR9rQa3oga6rcVQhPO5Qm3fxXOLtnv8tMJarw/pub
-
 1.	参考链接
 
 1.1 讲解视频
@@ -324,7 +315,7 @@ Student
 2.	 *2
 2.1 JobOffer与所学专业相符
 3.  *3
-	3.1 办JobApprovalLetter，雇主需要在提交JAL前的3个月内放4个星期这个职位的广告，证明试图招募国内工人
+ 3.1 办JobApprovalLetter，雇主需要在提交JAL前的3个月内放4个星期这个职位的广告，证明试图招募国内工人
 
 Hard-to-Fill Pilot
 流程 https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-international-skilled-workers/procedures-and-guidelines
@@ -474,6 +465,9 @@ https://www.educanada.ca/study-plan-etudes/before-avant/permits-visas-permis.asp
 毕业后给工签的学校
 https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html
 
+中国加拿大高中成绩对应关系(Manitoba的40S对应高三)
+https://rdpolytech.ca/programs/academic-calendar/admissions/international-course-equivalencies/international-course-equivalencies
+
 学校地图
 https://www.google.com/maps/d/viewer?mid=1pLULcUsQviJHG68n_tO6FRi84KKYG53S
 
@@ -512,6 +506,7 @@ NewBrunswick省政策
 [校]New Brunswick Community College
 无截止日期。2023秋和2024冬已不支持国际学生自己申请，要和合作机构联系。
 高中成绩要求 https://nbcc.ca/admissions/program-admission-profiles/international-program-admission-profiles
+可用席位 https://nbcc.ca/admissions/seats-available
 [课]Automotive Technology
 https://nbcc.ca/programs-courses/program-details?baseCurriculumId=f068d2d5-7b65-4e02-8491-ac1f4bb1688a
 学习修车。岗位较多，工资不高，NB时薪28至25。
@@ -736,6 +731,7 @@ Manitoba省政策
 [校]Assiniboine Community College
 英语要求 https://assiniboine.net/admissions/applying-assiniboine/admission-requirements/english-language-proficiency
 官网称无截至日期。
+提交文件要求翻译成英文。
 [课]Civil Technology (当前属MB紧缺职业)
 https://assiniboine.net/programs/civil-technology
 学习设计基础设施。岗位不少，薪资较高，时薪40至60。
@@ -762,6 +758,7 @@ https://assiniboine.net/programs/network-administration-technology
 截止日期 https://apply.mitt.ca/guide
 该校StudyPermit申请截止日期(2023年秋季为7至9月) https://mitt.ca/admissions
 9月课程截止7月15，1月课程截止11月1，5月课程截止3月31。
+2023年秋冬只接受已有StudyPermit者的申请。
 英语要求 https://mitt.ca/admissions/english-language-proficiency
 [课]Network and Systems Administrator (当前属MB紧缺职业)
 https://mitt.ca/programs/post-secondary-programs/2385/network-and-systems-administrator-diploma-fall-2023-onward-
@@ -851,6 +848,7 @@ https://bowvalleycollege.ca/programs-courses/health-and-wellness/pharmacy-techni
 各专业可用席位、工资情况明了。
 截止日期普遍为开学日。
 雅思要求6.5(子项不低于5)。
+要求学信网的认证，且录取前要将公证过的副本寄给NAIT。
 [课]Architectural Technology (当前不属Ineligible职业)
 https://www.nait.ca/programs/architectural-technology?term=2023-fall&overviewtabs=admissions-tab
 学习建筑技术。据学校官网，时薪22，工资较低。
@@ -923,6 +921,7 @@ https://www.nait.ca/programs/instrumentation-engineering-technology?term=2023-fa
 学费普遍较高，在40000左右。
 雅思要求4个6。
 9月截止5月23，1月截止9月28，5月截止1月22。
+提交文件要求翻译成英文。
 [课]Architectural Technologies (当前不属Ineligible职业)
 https://www.sait.ca/programs-and-courses/diplomas/architectural-technologies#admission-requirements-bs-tab
 学习成为建筑工。薪资一般，据学校官网称时薪25左右。
@@ -957,6 +956,7 @@ https://www.sait.ca/programs-and-courses/diplomas/civil-engineering-technology
 学费总表 https://rdpolytech.ca/international-students/what-you-can-study-rdp/what-you-can-study-rdp
 每年三次开学(9月、1月、5月)，9月课程报名截止于5月1，1月课程报名截止于9月1，5月课程报名截止于1月31。
 雅思要求6.5(子项不低于5.5)。
+要求在开学前提供“官方文件”(应该是指原始文件经过公证的副本)。
 [课]Instrumentation and Automation Engineering Technology (当前不属Ineligible职业)
 https://rdpolytech.ca/programs/engineering-and-technologies/instrumentation-and-automation-engineering-technology-diploma
 学习机器人技术、工业机器和设备自动控制的知识。据NAIT官网，时薪30，工资较高。
@@ -1069,20 +1069,30 @@ Waitlisted专业 https://www.lakelandcollege.ca/future-students/get-ready-to-app
 
 
 3.3	申请College
-学信网做材料认证要和学校沟通，需要1个月，且1-2月、6-8月做不了。
-
-所需材料(学校要求该文件的可能性从大至小排列)：
-高中毕业证(需在学信网做验证)
-高考成绩(需在学信网做验证)(部分学校需要)
+所需材料：
+高中毕业证(可在学信网做验证)
+高考成绩(可在学信网做验证)(部分学校需要)
 高中成绩单(部分学校需要)(学信网不支持做验证)
-大学毕业证(需在学信网做验证)(部分学校需要)
-大学成绩单(需在学信网做验证)(部分学校需要)
+大学毕业证(可在学信网做验证)(部分学校需要)
+大学成绩单(可在学信网做验证)(部分学校需要)
+注: 学信网做材料认证要和学校沟通，需要1个月，且1-2月、6-8月做不了。
+注: 部分学校要求所有教育经历的成绩单。
+注: 所有材料都需要翻译，有些学校要求学信网的认证，有些学校要求notarized则是要在公证处做公证和翻译。
+注: 有些公证处可以做翻译，也可以公证第三方机构做的翻译。
 
 关于如何开具各类证明 https://www.chsi.com.cn/wssq/sqcl.jsp
 高中毕业证认证(https://www.chsi.com.cn/wssq/user/application/operationKeys.action?brsq=1)(移民所需的大学学位认证WES也在这里)
 大学学位验证 https://my.chsi.com.cn/archive/bab/index.action?trnd=1682869905061
 
 
+
+3.4	申请Study Permit (Student Direct Stream)
+https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/student-direct-stream/eligibility.html
+准备材料:
+1.	体检(地点 https://secure.cic.gc.ca/pp-md/pp-list.aspx)
+2.	无犯罪证明(获取方法 https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how/china.html)
+3.	GIC(存10000加币到指定银行，到了加拿大才可以使用)
+4.	全额支付了第一年的学费的证明
 
 
 4.	毕业工签
@@ -1108,3 +1118,35 @@ https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-can
 注意点:
 1.	目前邀请处理时间为25个月，即2020年提出的申请2022年方可通过。
 2.	对被担保方没有要求，但要求担保方出示近3年的收入流水，担保2人需要年收入超过41007 (月3417)，3人50414 (月4201)，4人61209 (月5100)。
+
+
+7.	后路
+三年工签没取得加拿大PR的话……
+
+7.1 投资移民
+日本(25万人民币开公司)
+爱尔兰(情况不明)
+葡萄牙(情况不明)
+
+7.2 如果选择日本
+生活费每月5000人民币左右(和加拿大相近)，打工时薪50人民币左右(加拿大的2/3)，读书签证合法打工时长每周28小时。
+
+参考链接
+维基 https://en.wikipedia.org/wiki/Immigration_to_Japan
+签证介绍 https://www.youtube.com/watch?v=h_tXWvTr1Ks
+入籍详细介绍 https://www.youtube.com/watch?v=B89nSGhiGSI
+高级人才评分表 https://lawoffice-yokoyama.com/highskill/pointtable_cn/
+
+非投资移民：
+语言学校+补习班+考研+工作+移民 (工作前可能是 1或2 +1+2年，预计总学费15至20万人民币) (有考不上的风险)。
+语言学校+工作+移民 (1或2年读书，学费5至10万。) (依靠以往学历、工作经验找工作，难度未知，日本很多公司喜欢通过考试招人)。
+语言学校+专门学校+工作+移民 (工作前时间为 1或2 +2年，专门学校应该类似技院，入学门槛较低，学费较高，总学费预计20至25万)。
+
+入籍
+据维基百科，99%入籍申请得到批准。日本入籍比拿永居简单。
+要求:
+1.	连续居住5年(工作后开始计算，读书时不算)
+2.	工作3年以上(正式工作，兼职不算)
+3.	每月收入可覆盖支出(20万日元以上)
+4.	日语N3
+5.	无犯罪、无严重交通事故、正常纳税交养老金医保
